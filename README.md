@@ -1,1 +1,2 @@
-# SEPM Experiment 2 & 3
+# SEPM Experiments
+
