@@ -1,3 +1,3 @@
-# SEPM Experiments and assignmnets 
+# SEPM Experiments and assignments 
 
 
